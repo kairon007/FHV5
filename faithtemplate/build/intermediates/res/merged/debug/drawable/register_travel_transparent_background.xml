@@ -1,0 +1,8 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <solid android:color="#b2ffffff" />
+
+    <corners
+        android:radius="5dp" />
+
+</shape><!-- From: file:/home/xonos/AndroidStudioProjects/FHV5/faithtemplate/res/drawable/register_travel_transparent_background.xml -->

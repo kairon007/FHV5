@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FHV5.iml" filepath="$PROJECT_DIR$/FHV5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StickyListHeaders/StickyListHeaders.iml" filepath="$PROJECT_DIR$/StickyListHeaders/StickyListHeaders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-support-v7-appcompat/android-support-v7-appcompat.iml" filepath="$PROJECT_DIR$/android-support-v7-appcompat/android-support-v7-appcompat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/faithtemplate/faithtemplate.iml" filepath="$PROJECT_DIR$/faithtemplate/faithtemplate.iml" />
+    </modules>
+  </component>
+</project>

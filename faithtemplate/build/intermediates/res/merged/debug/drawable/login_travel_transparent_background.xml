@@ -1,0 +1,8 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <solid android:color="#cce0e0df" />
+
+    <corners
+        android:radius="5dp" />
+
+</shape><!-- From: file:/home/xonos/AndroidStudioProjects/FHV5/faithtemplate/res/drawable/login_travel_transparent_background.xml -->

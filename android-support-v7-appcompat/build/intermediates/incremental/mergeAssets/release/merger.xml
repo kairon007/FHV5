@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/xonos/AndroidStudioProjects/FHV5/android-support-v7-appcompat/assets"/></dataSet><dataSet config="release"><source path="/home/xonos/AndroidStudioProjects/FHV5/android-support-v7-appcompat/build-types/release/assets"/></dataSet></merger>
